@@ -1,5 +1,6 @@
 __pycache__/
 flight_data/
 missile-control-with-yolo/elevator_controller/
+missile-control-with-yolo/yolo/YOLOv8_M/
 *.zip
 *.mp4
